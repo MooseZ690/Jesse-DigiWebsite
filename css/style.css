@@ -2,7 +2,7 @@
 html{
   font-family: Arial, Helvetica, sans-serif;
   margin: 0rem 2rem;
-  background-color: #ffffff;
+  background-image: linear-gradient(gray,black);
 }
 
 /* Banner image*/
@@ -60,7 +60,7 @@ main{
 
 /* H1 uses a google font. Check out https://www.w3schools.com/howto/howto_google_fonts.asp to change - also see line 9 in your html page*/
 h1 {
-  color: darkblue;
+  color: whitesmoke;
   font-family: 'Caesar Dressing';
   font-size: 60px;
   text-align: center;
@@ -68,13 +68,16 @@ h1 {
 }
 
 h2 {
-  color: black;
+  color: whitesmoke;
   font-size: 30px;
   text-align: center;
 }
 
+h5{
+  color: whitesmoke;
+}
 p {
-  color: black;
+  color: whitesmoke;
   font-size: 14px;
   text-align: center;
 }
