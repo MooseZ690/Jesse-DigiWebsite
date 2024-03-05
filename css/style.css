@@ -1,9 +1,21 @@
 /* global styling*/
-html{
+html {
   font-family: Arial, Helvetica, sans-serif;
   margin: 0rem 2rem;
 }
 
+#center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Optional: adjust height if needed */
+}
+
+/* Corrected favicon link NOT WORKINGGGG */
+link[rel="icon"] {
+  type: image/x-icon;
+  href: "/images/THING.ico";
+}
 body {
     background-image: url('../images/monkeyrizz.jpg');
     background-size: cover; /* Adjust to cover the entire page */
