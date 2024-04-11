@@ -17,9 +17,7 @@ link[rel="icon"] {
   href: "/images/THING.ico";
 }
 body {
-    background-image: url('../images/monkeyrizz.jpg');
-    background-size: cover; /* Adjust to cover the entire page */
-    background-position: center; /* Center the background image */
+    background-image: url('../images/bc0f2992e9956ebc6215525f69439db2.gif');
 }
 
 /* Banner image*/
@@ -81,7 +79,7 @@ main{
 /* H1 uses a google font. Check out https://www.w3schools.com/howto/howto_google_fonts.asp to change - also see line 9 in your html page*/
 h1 {
   color: whitesmoke;
-  font-family: 'Caesar Dressing';
+  font-family: 'Helvetica';
   font-size: 60px;
   text-align: center;
   margin-bottom: 1rem;
