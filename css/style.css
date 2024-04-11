@@ -78,7 +78,7 @@ main{
 
 /* H1 uses a google font. Check out https://www.w3schools.com/howto/howto_google_fonts.asp to change - also see line 9 in your html page*/
 h1 {
-  color: whitesmoke;
+  color: black;
   font-family: 'Helvetica';
   font-size: 60px;
   text-align: center;
@@ -86,16 +86,16 @@ h1 {
 }
 
 h2 {
-  color: whitesmoke;
+  color: black;
   font-size: 30px;
   text-align: center;
 }
 
 h5{
-  color: whitesmoke;
+  color: black;
 }
 p {
-  color: whitesmoke;
+  color: black;
   font-size: 14px;
   text-align: center;
 }
